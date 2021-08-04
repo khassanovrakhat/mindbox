@@ -1,0 +1,11 @@
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibrary\bin\Debug\AreasLibrary.dll
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibrary\bin\Debug\AreasLibrary.pdb
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibrary\obj\Debug\AreasLibrary.csprojResolveAssemblyReference.cache
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibrary\obj\Debug\AreasLibrary.dll
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibrary\obj\Debug\AreasLibrary.pdb
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibrary\bin\Debug\AreasLibrary.dll
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibrary\bin\Debug\AreasLibrary.pdb
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibrary\obj\Debug\AreasLibrary.csprojAssemblyReference.cache
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibrary\obj\Debug\AreasLibrary.csproj.CoreCompileInputs.cache
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibrary\obj\Debug\AreasLibrary.dll
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibrary\obj\Debug\AreasLibrary.pdb

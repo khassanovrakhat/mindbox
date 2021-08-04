@@ -1,0 +1,18 @@
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibraryTest\bin\Debug\AreasLibraryTest.dll
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibraryTest\bin\Debug\AreasLibraryTest.pdb
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibraryTest\bin\Debug\AreasLibrary.dll
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibraryTest\bin\Debug\AreasLibrary.pdb
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibraryTest\obj\Debug\AreasLibraryTest.csprojResolveAssemblyReference.cache
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibraryTest\obj\Debug\AreasLibraryTest.dll
+c:\users\maya\documents\visual studio 2015\Projects\AreasShapes\AreasLibraryTest\obj\Debug\AreasLibraryTest.pdb
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\bin\Debug\AreasLibraryTest.dll
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\bin\Debug\AreasLibraryTest.pdb
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\bin\Debug\AreasLibrary.dll
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\bin\Debug\AreasLibrary.pdb
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\obj\Debug\AreasLibraryTest.csprojAssemblyReference.cache
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\obj\Debug\AreasLibraryTest.csproj.CoreCompileInputs.cache
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\obj\Debug\AreasLibraryTest.csproj.CopyComplete
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\obj\Debug\AreasLibraryTest.dll
+D:\tasks\Mindbox\Task-7-master\AreasShapes\AreasLibraryTest\obj\Debug\AreasLibraryTest.pdb
